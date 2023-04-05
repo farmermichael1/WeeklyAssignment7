@@ -1,0 +1,13 @@
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\bin\Debug\WeeklyAssignment7.exe.config
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\bin\Debug\WeeklyAssignment7.exe
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\bin\Debug\WeeklyAssignment7.pdb
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\bin\Debug\WeeklyAssignment7.xml
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.vbproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.Resources.resources
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.SplashScreen1.resources
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.vbproj.GenerateResource.cache
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.exe
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.xml
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.pdb
+C:\Users\Michael\source\repos\WeeklyAssignment7\WeeklyAssignment7\obj\Debug\WeeklyAssignment7.Form1.resources
